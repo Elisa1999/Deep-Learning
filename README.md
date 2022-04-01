@@ -1,3 +1,3 @@
 # Deep-Learning
 
-Implementation in Deep Learning
+Model implementations in Deep Learning
